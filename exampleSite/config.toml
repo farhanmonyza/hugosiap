@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bookworm-light/"
+baseURL = "https://651fac43c7b98968a71aa157--nimble-croquembouche-42b78e.netlify.app/"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light-hugo"
 # post pagination
